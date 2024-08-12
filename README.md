@@ -8,17 +8,15 @@
 This repository is dedicated to summarizing papers related to large language models with the field of law
 ## Applications of Large Language Models in Legal Tasks
 
-[1] RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models.
+[1] RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models. 
 
-Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Wenhu Chen, Jie Fu, Junran Peng. ACL 2024, [paper](https://arxiv.org/pdf/2310.00746)
+Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Wenhu Chen, Jie Fu, Junran Peng. ACL 2024, [[paper](https://arxiv.org/pdf/2310.00746)]
 
-[21] Boosting legal case retrieval by query content selection with large language models [paper](https://arxiv.org/pdf/2312.03494v1.pdf)
+[2] Character-LLM: A Trainable Agent for Role-Playing.
 
-[22] LLMediator: GPT-4 Assisted Online Dispute Resolution [paper](https://arxiv.org/pdf/2307.16732v1.pdf)
+Yunfan Shao, Linyang Li, Junqi Dai, Xipeng Qiu. EMNLP 2023, [paper](https://arxiv.org/pdf/2310.10158)
 
-[23] Employing Label Models on ChatGPT Answers Improves Legal Text Entailment Performance [paper](https://arxiv.org/pdf/2401.17897v1.pdf)
 
-[24] LLaMandement: Large Language Models for Summarization of French Legislative Proposals [paper](https://arxiv.org/pdf/2401.16182v1.pdf)
 
 
 
