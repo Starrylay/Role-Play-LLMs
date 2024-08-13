@@ -10,7 +10,7 @@
 
 | Model           |  Resource          | Character | Samples | Language | Source | Method |
 |-----------------|--------------------|-----------|--------|-----------|---------|-------------|
-| PDP             |[[paper](https://arxiv.org/pdf/2308.09597)], [[data](https://github.com/LC1332/Chat-Haruhi-Suzumiya)]         | 327       | 1,042,647 | EN, ZH  | TV shows | Experience Extraction, Dialogue Synthesis |
+| PDP             |[[paper](https://arxiv.org/pdf/2204.10825)], [[data](--)]         | 327       | 1,042,647 | EN, ZH  | TV shows | Experience Extraction, Dialogue Synthesis |
 | Character-LLM   |[[paper](https://arxiv.org/pdf/2310.10158)], [[data](https://github.com/choosewhatulike/trainable-agents)] | 9         | 1,900,800 | EN      | Encyclopedia | Experience Extraction, Dialogue Synthesis |
 | ChatHaruhi      |[[paper](https://arxiv.org/pdf/2308.09597)], [[data](https://github.com/LC1332/Chat-Haruhi-Suzumiya)]   | 32        | 54,726  | EN, ZH   | Books, Games, Movies | Experience Extraction, Dialogue Synthesis |
 | RoleLLM         |[[paper](https://arxiv.org/pdf/2310.00746)], [[data](https://github.com/InteractiveNLP-Team/RoleLLM-public)]            | 100       | 140,726 | EN, ZH   | Scripts | Experience Extraction, Dialogue Synthesis |
