@@ -5,23 +5,6 @@
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 
-This repository is dedicated to summarizing papers related to large language models 
-
-
-
-
-
-[21] Boosting legal case retrieval by query content selection with large language models [paper](https://arxiv.org/pdf/2312.03494v1.pdf)
-
-[22] LLMediator: GPT-4 Assisted Online Dispute Resolution [paper](https://arxiv.org/pdf/2307.16732v1.pdf)
-
-[23] Employing Label Models on ChatGPT Answers Improves Legal Text Entailment Performance [paper](https://arxiv.org/pdf/2401.17897v1.pdf)
-
-[24] LLaMandement: Large Language Models for Summarization of French Legislative Proposals [paper](https://arxiv.org/pdf/2401.16182v1.pdf)
-
-
-
-
 ## Benchmark:
 [1] RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models.
 
@@ -49,11 +32,23 @@ Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuh
 
 ## Evaluation:
 
-[1] INCHARACTER: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews  [[paper](https://arxiv.org/pdf/2310.17976)], [[code](https://github.com/Neph0s/InCharacter)]
+[1] INCHARACTER: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews.  [[paper](https://arxiv.org/pdf/2310.17976)], [[code](https://github.com/Neph0s/InCharacter)]
 
-[2] Rouge-L Evaluation. [[paper](https://aclanthology.org/W04-1013.pdf)] [[applied](https://arxiv.org/pdf/2310.00746)]
+[2] Character-LLM: A Trainable Agent for Role-Playing. [[paper](https://arxiv.org/pdf/2310.10158)], [[code](https://github.com/choosewhatulike/trainable-agents)] 
+
+[3] RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models.   [[paper](https://arxiv.org/pdf/2310.00746)], [[data](https://github.com/InteractiveNLP-Team/RoleLLM-public)] 
 
 (1) Raw groundtruths of general instructions without role-playing (RAW); (2) Customized general instruction responses with role-playing from RoleBench-general (CUS); (3) Role-specific instruction responses from RoleBench-specific (SPE). 
+
+[4] ChatHaruhi: Reviving Anime Character in Reality via Large Language Model.   [[paper](https://arxiv.org/pdf/2308.09597)], [[data](https://github.com/LC1332/Chat-Haruhi-Suzumiya)] 
+
+[5] CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation. [[paper](https://arxiv.org/pdf/2401.01275)], [[data](https://github.com/morecry/CharacterEval)]
+
+[6] *Toxicity Evaluation* Toxicity in CHATGPT: Analyzing Persona-assigned Language Models. [[paper](https://arxiv.org/pdf/2304.05335)]
+
+
+ 
+
 
 
 
