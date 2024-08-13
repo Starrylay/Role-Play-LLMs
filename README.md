@@ -5,11 +5,6 @@
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 
-## Benchmark:
-[1] RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models.
-
-Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Wenhu Chen, Jie Fu, Junran Peng. ACL 2024, [paper](https://arxiv.org/pdf/2310.00746), RoleBench [code](https://github.com/InteractiveNLP-Team/RoleLLM-public/tree/main?tab=readme-ov-file)
-
 
 ## Resource:
 
