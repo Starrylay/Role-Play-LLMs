@@ -46,6 +46,7 @@ Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuh
 
 [6] *Toxicity Evaluation* Toxicity in CHATGPT: Analyzing Persona-assigned Language Models. [[paper](https://arxiv.org/pdf/2304.05335)]
 
+[7] NarrativePlay: Interactive Narrative Understanding. [[paper](https://arxiv.org/pdf/2310.01459)]
 
  
 
