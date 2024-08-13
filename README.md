@@ -36,13 +36,13 @@ Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuh
 
 [2] Character-LLM: A Trainable Agent for Role-Playing. [[paper](https://arxiv.org/pdf/2310.10158)], [[code](https://github.com/choosewhatulike/trainable-agents)] 
 
-[3] RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models.   [[paper](https://arxiv.org/pdf/2310.00746)], [[data](https://github.com/InteractiveNLP-Team/RoleLLM-public)] 
+[3] RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models.   [[paper](https://arxiv.org/pdf/2310.00746)], [[code](https://github.com/InteractiveNLP-Team/RoleLLM-public)] 
 
 > (1) Raw groundtruths of general instructions without role-playing (RAW); (2) Customized general instruction responses with role-playing from RoleBench-general (CUS); (3) Role-specific instruction responses from RoleBench-specific (SPE). 
 
-[4] ChatHaruhi: Reviving Anime Character in Reality via Large Language Model.   [[paper](https://arxiv.org/pdf/2308.09597)], [[data](https://github.com/LC1332/Chat-Haruhi-Suzumiya)] 
+[4] ChatHaruhi: Reviving Anime Character in Reality via Large Language Model.   [[paper](https://arxiv.org/pdf/2308.09597)], [[code](https://github.com/LC1332/Chat-Haruhi-Suzumiya)] 
 
-[5] CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation. [[paper](https://arxiv.org/pdf/2401.01275)], [[data](https://github.com/morecry/CharacterEval)]
+[5] CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation. [[paper](https://arxiv.org/pdf/2401.01275)], [[code](https://github.com/morecry/CharacterEval)]
 
 [6] *Toxicity Evaluation* Toxicity in CHATGPT: Analyzing Persona-assigned Language Models. [[paper](https://arxiv.org/pdf/2304.05335)]
 
