@@ -30,9 +30,9 @@ Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuh
 
 ## Dataset:
 
-| Model           | Character | Samples | Language | Source | Method |
-|-----------------|-----------|--------|-----------|---------|-------------|
-| PDP[paper](https://arxiv.org/pdf/2308.09597) [data](https://github.com/LC1332/Chat-Haruhi-Suzumiya)         | 327       | 1,042,647 | EN, ZH  | TV shows | Experience Extraction, Dialogue Synthesis |
+| Model           |  Resource | Character | Samples | Language | Source | Method |
+|-----------------|-----------|-----------|--------|-----------|---------|-------------|
+| PDP             |[[paper](https://arxiv.org/pdf/2308.09597)], [[data](https://github.com/LC1332/Chat-Haruhi-Suzumiya)]         | 327       | 1,042,647 | EN, ZH  | TV shows | Experience Extraction, Dialogue Synthesis |
 | Character-LLM   | 9         | 1,900,800 | EN      | Encyclopedia | Experience Extraction, Dialogue Synthesis |
 | ChatHaruhi      | 32        | 54,726  | EN, ZH   | Books, Games, Movies | Experience Extraction, Dialogue Synthesis |
 | RoleLLM         | 100       | 140,726 | EN, ZH   | Scripts | Experience Extraction, Dialogue Synthesis |
