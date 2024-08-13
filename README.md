@@ -51,7 +51,8 @@ Zekun Moore Wang, Zhongyuan Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuh
 
 [1] INCHARACTER: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews  [[paper](https://arxiv.org/pdf/2310.17976)], [[code](https://github.com/Neph0s/InCharacter)]
 
-[2] Rouge-L Evaluation.[paper](https://aclanthology.org/W04-1013.pdf) [applied](https://arxiv.org/pdf/2310.00746)
+[2] Rouge-L Evaluation. [[paper](https://aclanthology.org/W04-1013.pdf)] [[applied](https://arxiv.org/pdf/2310.00746)]
+
 (1) Raw groundtruths of general instructions without role-playing (RAW); (2) Customized general instruction responses with role-playing from RoleBench-general (CUS); (3) Role-specific instruction responses from RoleBench-specific (SPE). 
 
 
